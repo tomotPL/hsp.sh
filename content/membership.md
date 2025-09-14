@@ -11,7 +11,7 @@ Zapraszamy sympatyków do formalnego członkostwa w Stowarzyszeniu Hackerspace P
 
 Członkostwo daje Ci dostęp do [lokalu](/location) (własny klucz i kartę) oraz wpis do listy członków w naszym stowarzyszeniu (w tym głos na formalnych Zebraniach). Zdobycie członkostwa wymaga przede wszystkim poznania członków i zdobycia 3 okejek. Okejki są sygnałem, że ktoś za Ciebie poręczył i możemy tobie zaufać. 
 
-Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w formie składki członkowskiej która wynosi 150 PLN / msc. Jeżeli jest to dla ciebie duża kwota, nie martw się! Porozmawiaj z zarządem o obniżonej składce (tzw. "studenckiej").
+Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w formie składki członkowskiej która wynosi 150 PLN / msc. (cykliczny przelew na konto HSP - dane dostępne są [TUTAJ.](/donate)) Jeżeli jest to dla ciebie duża kwota, nie martw się! Porozmawiaj z zarządem o obniżonej składce (tzw. "studenckiej").
 
 # Jak zostać członkiem?
 
@@ -28,7 +28,3 @@ Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w fo
 # Zostałem członkiem. Co dalej?
 
 Zapoznaj się z treścią naszej Wiki, gdzie znajdziesz [materiały dla nowych członków.](https://docs.hsp.sh/en/new-member)
-
-# Wsparcie
-
-Jeżeli chcesz wesprzeć działalność naszego Stowarzyszenia oraz jego [cele statutowe](/statut), zachęcamy do wpłaty darowizny na nasze konto - dane do przelewów dostępne są [tutaj](/contact). Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprzeć, daj nam znać, jesteśmy otwarci na współpracę. 
