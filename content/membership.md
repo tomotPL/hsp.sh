@@ -22,7 +22,7 @@ Członkostwo również wiąże się z obowiązkiem wsparciem Stowarzyszenia w fo
 4. Dostarcz deklarację na ręce [Zarządu](/contact). Rozpoczyna to twój oficjalny proces przyjęcia do stowarzyszenia.
 5. Członkiem zostaje się po akceptacji Zarządu, bez sprzeciwu członków, i opłaceniu składki.  
     - Najpóźniej tydzień przed głosowaniem Zarząd informuje członków HSP o kandydacie czekając na potencjalne obiekcje.
-    - Dyskusja nad przyjęcieł członka odbywa się na najbliższym [Spotkaniu Organizacyjnym (SPORG)](/calendar).
+    - Dyskusja nad przyjęciem członka odbywa się na najbliższym [Spotkaniu Organizacyjnym (SPORG)](/calendar).
 6. Okres przejściowy: Klucze do lokalu można uzyskać najwcześniej miesiąc po złożeniu deklaracji członkowskiej na ręce członka Zarządu oraz po potwierdzeniu cykliczności w opłacaniu składek.
 
 # Zostałem członkiem. Co dalej?
@@ -31,16 +31,4 @@ Zapoznaj się z treścią naszej Wiki, gdzie znajdziesz [materiały dla nowych c
 
 # Wsparcie
 
-Jeżeli chcesz wesprzeć działalność naszego Stowarzyszenia oraz jego [cele statutowe](/statut), zachęcamy do wpłaty darowizny na nasze konto.
-Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprzeć, daj nam znać, jesteśmy otwarci na współpracę.
-
-## Dane do przelewu
-
-```
-Stowarzyszenie Hackerspace Pomorze
-Stefana Miraua 10/6, 80-318 Gdańsk
-Nr rachunku: 50 1600 1459 1890 5449 3000 0001
-IBAN: PL50 1600 1459 1890 5449 3000 0001
-BIC/SWIFT: PPABPLPK
-Tytułem: "Darowizna na cele statutowe" lub "Składka [Imię] [Nazwisko]"
-```
+Jeżeli chcesz wesprzeć działalność naszego Stowarzyszenia oraz jego [cele statutowe](/statut), zachęcamy do wpłaty darowizny na nasze konto - dane do przelewów dostępne są [tutaj](/contact). Jeśli masz firmę lub fajnego szefa, który potencjalnie chciałby nas wesprzeć, daj nam znać, jesteśmy otwarci na współpracę. 
